@@ -7,4 +7,4 @@
 - ✔️ Apart from work develope personal projects using modern tech stack. My recently updated project [Ecommerce](https://github.com/ramfir/Ecommerce)
 - :earth_asia: Speak Tajik, Russian and English languages
 - :email: Contact me via e-mail firdavs_20111@mail.ru or Telegram - @fnsalimov
-- :bookmark_tabs: [Resume](https://github.com/ramfir/ramfir/files/10078480/Resume.pdf)
+- :bookmark_tabs: [Resume](https://github.com/ramfir/ramfir/files/12299632/English.Resume.pdf)
